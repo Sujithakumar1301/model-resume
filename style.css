@@ -1,0 +1,39 @@
+body{ 
+    background-image: url(./backgroung.jpg);
+    background-color: #ffffff40;
+    background-size:cover ;
+    background-repeat:repeat;
+    background-position:right bottom;
+    background-attachment: scroll;
+    height: 900px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+}
+.container{
+    width: 1000px;
+    margin:0 auto;
+    background-color:#ffffff2b;
+    padding: 10px 40px;
+}
+h1{
+    font-size: 30px;
+    
+}
+p{ 
+    padding-left: 20px;
+}
+h2{
+    background-color: #ccc;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-bottom: solid 1px #000;
+}
+.section{
+    font-size: 18px; 
+    padding-left: 30px;
+    border-bottom: solid 10x #000;
+}
+.address{
+    padding: 40px;
+    line-height: 1.5;
+}
